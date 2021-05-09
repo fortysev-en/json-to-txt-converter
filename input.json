@@ -1,0 +1,19 @@
+{
+  "Raspberry": [
+    {
+      "City": "New York City",
+      "Country": "US",
+      "State": "New York"
+    },
+    {
+      "ID": "174031",
+      "LAT": "17.0015",
+      "LONG": "08.4445"
+    },
+    {
+      "ID": "174032",
+      "LAT": "17.0015",
+      "LONG": "08.4445"
+    }
+  ]
+}
